@@ -136,7 +136,6 @@ header p {
   color: #666;
 }
 
-/* Footer */
 footer {
   background: #f4f4f4;
   text-align: center;
@@ -226,7 +225,6 @@ html {
   scroll-behavior: smooth;
 }
 
-/* Animation */
 @keyframes fadeIn {
   from {
     opacity: 0;
