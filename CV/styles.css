@@ -156,7 +156,7 @@ footer a:hover {
   font-weight: bold;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
   .container {
     padding: 20px;
@@ -221,7 +221,7 @@ footer a:hover {
   }
 }
 
-/* Smooth Scroll Effect */
+
 html {
   scroll-behavior: smooth;
 }
