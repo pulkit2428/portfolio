@@ -155,7 +155,6 @@ footer a:hover {
   font-weight: bold;
 }
 
-
 @media (max-width: 768px) {
   .container {
     padding: 20px;
@@ -219,7 +218,6 @@ footer a:hover {
     font-size: 0.9rem;
   }
 }
-
 
 html {
   scroll-behavior: smooth;
